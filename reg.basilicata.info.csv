@@ -1,155 +1,155 @@
-SiteID;SiteCode;SiteName;Longitude;Latitude;Elevation;Regione;FullSiteCode;Comments;Elevation_flag
-1;176900;Craco Peschiera;16.5153;40.3667;65;Basilicata;OD:176900;** fonte: hisCentral ** Codici OD di His Central ** NA;1
-2;177000;Torre Accio;16.6539;40.3925;21;Basilicata;OD:177000; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-5;179800;Campomaggiore;16.0778;40.5486;437;Basilicata;OD:179800; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-6;179900;Albano di Lucania;16.0378;40.5894;794;Basilicata;OD:179900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-7;203900;Sinni SS106;16.6514;40.1678;10;Basilicata;OD:203900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-8;204000;Cavone SS106;16.7267;40.2983;14;Basilicata;OD:204000; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-9;215900;Basento freatimetro;16.7789;40.3742;8;Basilicata;OD:215900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-11;230600;Bradano freatimetro;16.8181;40.425;9;Basilicata;OD:230600; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-12;233200;Terra Montonata;16.7519;40.31;10;Basilicata;OD:233200; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-13;240400;Basento SS 106;16.7806;40.3694;8;Basilicata;OD:240400; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-15;240700;Grassano SP;16.275;40.6347;450;Basilicata;OD:240700; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-17;275500;Episcopia-Pizzutello;16.1036;40.07;471;Basilicata;OD:275500; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-18;275600;Castrocucco;15.7967;40.0011;163;Basilicata;OD:275600; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-19;276500;Terranova di Pollino;16.2983;39.9839;1150;Basilicata;OD:276500; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-20;276900;Tursi;16.4711;40.2517;257;Basilicata;OD:276900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-21;277300;Marsico Nuovo;15.725;40.405;666;Basilicata;OD:277300; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-23;331200;Castelsaraceno;15.9861;40.1611;959;Basilicata;OD:331200; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-25;332500;Roccanova;16.2067;40.2128;610;Basilicata;OD:332500; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-26;387900;Potenza Q.A.;15.7969;40.6264;708;Basilicata;OD:387900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-29;418000;Oppido Lucano;15.9983;40.7639;580;Basilicata;OD:418000; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-30;418100;Lavello;15.7914;41.0369;314;Basilicata;OD:418100; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-31;418200;Venosa;15.8036;40.9597;406;Basilicata;OD:418200; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-32;418300;Palazzo S.Gervasio;15.98;40.9339;422;Basilicata;OD:418300; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-33;419700;Picerno;15.6369;40.6372;638;Basilicata;OD:419700; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-34;419800;Balvano;15.5014;40.6494;477;Basilicata;OD:419800; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-35;419900;Brienza;15.6411;40.4794;765;Basilicata;OD:419900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-36;420000;Tito;15.6569;40.5742;728;Basilicata;OD:420000; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-38;481200;Montescaglioso;16.7014;40.5583;82;Basilicata;OD:481200; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-39;54700;Tramutola;15.7867;40.2986;875;Basilicata;OD:54700; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-40;54800;Stigliano;16.2236;40.3928;807;Basilicata;OD:54800; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-41;54900;Noepoli;16.3306;40.0894;575;Basilicata;OD:54900; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-42;55000;Matera;16.6017;40.6694;389;Basilicata;OD:55000; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-43;55100;Lagonegro;15.7622;40.1344;879;Basilicata;OD:55100; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-44;55200;Irsina;16.2461;40.7417;453;Basilicata;OD:55200; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-48;83800;Potenza;15.8108;40.6328;669;Basilicata;OD:83800; ** fonte: hisCentral ** Codici OD di His Central ** NA;1
-100;100;Accettura;16.1486295986;40.5006772266;799;Basilicata;OD:100; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-101;101;Acerenza;15.9326469898;40.8006734953;833;Basilicata;OD:101; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-102;102;Acquafredda;15.6668096649;40.0339926458;86;Basilicata;OD:102; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-103;103;Agromonte_C._C.;16.0489373913;40.0673364119;500;Basilicata;OD:103; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-104;104;Albano_di_Lucania;16.0358513363;40.5819656006;824;Basilicata;OD:104; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 179900;0
-105;105;Aliano;16.2316980607;40.3006782273;497;Basilicata;OD:105; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-106;106;Anzi;15.9160287691;40.5173368977;1066;Basilicata;OD:106; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-107;107;Armento;16.0655547873;40.3006725172;640;Basilicata;OD:107; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-108;108;Baraccone_C.C.;16.3313852006;40.3840161189;335;Basilicata;OD:108; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-109;109;Basentello_C.C.;16.3147786413;40.7673526196;350;Basilicata;OD:109; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-110;110;Basento_Freatimetro;16.7809974729;40.3686516743;10;Basilicata;OD:110; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 215900;0
-111;111;Bella_S._Antonio_Casalini;15.6091527557;40.7399756097;744;Basilicata;OD:111; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-112;112;Bernalda;16.6802875505;40.4173649903;127;Basilicata;OD:112; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-113;113;Bradano_Freatimetro;16.8217376684;40.4228998378;16;Basilicata;OD:113; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-114;114;C.le_Castrocucco;15.791169045;39.969893442;92;Basilicata;OD:114; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-115;115;Calciano;16.1984741718;40.5840131859;450;Basilicata;OD:115; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-116;116;Calvello;15.8495707085;40.4673345694;700;Basilicata;OD:116; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-117;117;Calvera;16.1422550252;40.1498402558;605;Basilicata;OD:117; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-118;118;Cancellara;15.9160314423;40.7340057189;620;Basilicata;OD:118; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-119;119;Caprarico;16.3812264909;40.3006839613;160;Basilicata;OD:119; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-120;120;Caprarizzo;16.3646204672;40.6840204577;420;Basilicata;OD:120; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-121;121;Carbone;16.082166511;40.1340047612;685;Basilicata;OD:121; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-122;122;Castelluccio_Inferiore;15.970752416;40.0062538635;490;Basilicata;OD:122; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-123;123;Castelluccio_Superiore;15.9658655302;40.0173333505;700;Basilicata;OD:123; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-124;124;Castelsaraceno;15.9824815219;40.1673353537;950;Basilicata;OD:124; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-125;125;Castronuovo_S.Andrea;16.1837913079;40.1876198356;660;Basilicata;OD:125; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-126;126;Cavone_a_Ponte_SS_106;16.7212662881;40.2956991438;17;Basilicata;OD:126; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-127;127;Cersosimo;16.347993192;40.0506801656;563;Basilicata;OD:127; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-128;128;Chiaromonte;16.1984659845;40.1173419033;794;Basilicata;OD:128; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-129;129;Cogliandrino;15.9326381987;40.1006665617;700;Basilicata;OD:129; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-130;130;Cognato;16.1320163054;40.5673440253;557;Basilicata;OD:130; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-131;131;Colonna_C.C.;16.1154049126;40.7340117706;350;Basilicata;OD:131; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-132;132;Corleto_Perticara;16.0323276153;40.3840056668;746;Basilicata;OD:132; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-133;133;Craco;16.4310715375;40.384020093;391;Basilicata;OD:133; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-134;134;Craco_Peschiera_Idrometro;16.5215140057;40.3609996686;6;Basilicata;OD:134; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-135;135;Episcopia;16.0987800489;40.0673379983;520;Basilicata;OD:135; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 275500;0
-136;136;Ferrandina;16.4518417679;40.4979110602;492;Basilicata;OD:136; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-137;137;Foce_Sinni;16.641514138;40.1645829007;35;Basilicata;OD:137; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-138;138;Francavilla_in_Sinni;16.1984654173;40.0840081974;421;Basilicata;OD:138; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-139;139;Genzano_di_Lucania;16.0344202582;40.8530053431;591;Basilicata;OD:139; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-140;140;Gorgoglione;16.1486282139;40.4173431235;800;Basilicata;OD:140; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-141;141;Grancia;15.9326446586;40.6173383044;747;Basilicata;OD:141; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-142;142;Grassano;16.2699718294;40.6323635167;577;Basilicata;OD:142; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 240700;0
-143;143;Grottole;16.3812328283;40.6006868861;481;Basilicata;OD:143; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-144;144;Grumento_Nova;15.8969195432;40.2909452333;585;Basilicata;OD:144; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-145;145;Irsina;16.2355827272;40.7484605691;533;Basilicata;OD:145; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 55200;0
-146;146;Isca_di_Tramutola;15.7997263908;40.3339987163;597;Basilicata;OD:146; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-147;147;Lagonegro;15.7619997491;40.1341863273;666;Basilicata;OD:147; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-148;148;Latronico;16.0157088827;40.084002207;884;Basilicata;OD:148; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-149;149;Laurenzana;15.9758100073;40.4552513368;850;Basilicata;OD:149; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-150;150;Lauria_Inferiore;15.8329519563;40.050663337;630;Basilicata;OD:150; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-151;151;Malabocca_C.C.;16.4975273961;40.3173556597;175;Basilicata;OD:151; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-152;152;Maratea;15.7166521825;39.9839932465;300;Basilicata;OD:152; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-153;153;Marsico_Nuovo;15.7305235232;40.4238614952;850;Basilicata;OD:153; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-154;154;Marsicovetere;15.8163410146;40.3673327736;1039;Basilicata;OD:154; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-155;155;Matera;16.5954416605;40.6597138001;450;Basilicata;OD:155; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 55000;0
-156;156;Metaponto;16.8132006622;40.3673712428;3;Basilicata;OD:156; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-157;157;Mezzana_di_Lucania;16.1652352679;39.9673392612;918;Basilicata;OD:157; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-158;158;Miglionico;16.4975331755;40.5673581226;466;Basilicata;OD:158; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-159;159;Mileo;16.0323229256;40.0506690741;750;Basilicata;OD:159; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-160;160;Missanello;16.1652405664;40.2840090316;566;Basilicata;OD:160; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-161;161;Moliterno;15.8661827466;40.2339993734;879;Basilicata;OD:161; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-162;162;Montalbano_Jonico;16.5639835872;40.2840248999;292;Basilicata;OD:162; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-163;163;Monte_Serico;16.1486355404;40.8506807382;557;Basilicata;OD:163; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-164;164;Montemurro;15.9824832418;40.300669927;710;Basilicata;OD:164; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-165;165;Montepitecchio;16.1652514496;40.9173487304;450;Basilicata;OD:165; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-166;166;Montescaglioso;16.6636772043;40.5673657536;364;Basilicata;OD:166; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-167;167;Noepoli;16.3298788144;40.0896520552;676;Basilicata;OD:167; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 54900;0
-168;168;Nova_Siri;16.5307518084;40.1506888404;300;Basilicata;OD:168; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-169;169;Nova_Siri_Scalo;16.6304369854;40.1340265269;2;Basilicata;OD:169; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-170;170;Oppido_Lucano;15.9991043104;40.7673418467;650;Basilicata;OD:170; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-171;171;Palazzo_San_Gervasio;15.9824919721;40.9340096998;483;Basilicata;OD:171; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-172;172;Pietragalla;15.8661886206;40.7506711655;839;Basilicata;OD:172; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-173;173;Pignola;15.7712076581;40.5926116503;742;Basilicata;OD:173; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-174;174;Pignola_di_Lucania;15.783114558;40.5840007949;924;Basilicata;OD:174; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-175;175;Pisticci;16.734492897;40.2950459358;364;Basilicata;OD:175; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-176;176;Pizzutello;16.102201969;40.0656875279;445;Basilicata;OD:176; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-177;177;Policoro;16.6533702214;40.1578978962;31;Basilicata;OD:177; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-178;178;Pomarico;16.5473751583;40.517359798;455;Basilicata;OD:178; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-179;179;Ponte_Colonna;16.1580487555;40.738735538;215;Basilicata;OD:179; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-180;180;Potenza;15.8021046436;40.6369822844;811;Basilicata;OD:180; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 83800;0
-181;181;Potenza_Q.A.;15.8136122939;40.6361099574;659;Basilicata;OD:181; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-182;182;Recoleta;16.6470542922;40.2506951312;83;Basilicata;OD:182; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-183;183;Ripa_d_Api_Scalo;16.1154054903;40.7673454521;298;Basilicata;OD:183; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-184;184;Rivello;15.7498814609;40.0839949713;450;Basilicata;OD:184; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-185;185;Roccanova;16.1984676643;40.2173428179;654;Basilicata;OD:185; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-186;186;Rotonda;16.0323214783;39.9506680072;630;Basilicata;OD:186; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-187;187;Salandra;16.3147735342;40.5173500882;598;Basilicata;OD:187; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-188;188;San_Basilio;16.6968989903;40.3173648791;67;Basilicata;OD:188; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-189;189;San_Chirico_Raparo;16.0655530412;40.1840047179;750;Basilicata;OD:189; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-190;190;San_Giorgio_Lucano;16.3812227681;40.1173488296;416;Basilicata;OD:190; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-191;191;San_Giuliano;16.5310397674;40.6026377525;69;Basilicata;OD:191; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-192;192;San_Giuliano_C.C.;16.5473772249;40.6006939681;90;Basilicata;OD:192; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-193;193;San_Martino_d_Agri;16.048939812;40.2340046635;661;Basilicata;OD:193; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-194;194;San_Mauro_Forte;16.2483157797;40.4840139215;565;Basilicata;OD:194; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-195;195;San_Nicola_d__Avigliano;15.7997303975;40.7340026715;848;Basilicata;OD:195; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-196;196;San_Salvatore;16.7965885223;40.4340376731;46;Basilicata;OD:196; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-197;197;San_Severino_Lucano;16.1320073823;40.0173386406;884;Basilicata;OD:197; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-198;198;Sant_Arcangelo;16.2649254194;40.2506788815;370;Basilicata;OD:198; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-199;199;Scanzano;16.6968971702;40.2506975236;23;Basilicata;OD:199; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-200;200;Sciffra;15.7446246904;40.5703885563;780;Basilicata;OD:200; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-201;201;Sellata_C.C.;15.7831140351;40.5340002114;1200;Basilicata;OD:201; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-202;202;Senise;16.2815381097;40.1506786087;330;Basilicata;OD:202; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-203;203;Stigliano;16.2273575423;40.3975859707;908;Basilicata;OD:203; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 54800;0
-204;204;Teana;16.1486234795;40.1340069241;800;Basilicata;OD:204; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-205;205;Terra_Montonata;16.7528726406;40.304716496;11;Basilicata;OD:205; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 233200;0
-206;206;Terranova_di_Pollino;16.3037065364;39.9804455322;930;Basilicata;OD:206; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 276500;0
-207;207;Tolve;16.0289716683;40.6981327723;568;Basilicata;OD:207; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-208;208;Torre_Accio;16.6484426712;40.4034744433;140;Basilicata;OD:208; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 177000;0
-209;209;Tramutola;15.7739768238;40.3252638513;654;Basilicata;OD:209; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-210;210;Trecchina;15.7831089649;40.0173284563;500;Basilicata;OD:210; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-211;211;Tricarico;16.1486315605;40.6173450812;698;Basilicata;OD:211; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-212;212;Tursi;16.4801779065;40.247202419;348;Basilicata;OD:212; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 276900;0
-213;213;Vaglio_di_Lucania;15.9160305896;40.6673383418;933;Basilicata;OD:213; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-214;214;Valsinni;16.4310668755;40.1673513371;250;Basilicata;OD:214; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-215;215;Venusio_Scalo;16.5639946024;40.734029396;338;Basilicata;OD:215; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-216;216;Vietri;15.5175103774;40.595006942;421;Basilicata;OD:216; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-217;217;Viggianello;16.0821639726;39.9673364679;512;Basilicata;OD:217; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
-218;218;Viggiano;15.8827978295;40.3340008317;1023;Basilicata;OD:218; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA;0
+SiteID;SiteCode;SiteName;Longitude;Latitude;Elevation;Elevation_flag;FullSiteCode;cod_rete;cod_reg;nota
+1;176900;Craco Peschiera;16.5153;40.3667;65;1;OD:176900;NA;17;NA
+2;177000;Torre Accio;16.6539;40.3925;21;1;OD:177000;NA;17;NA
+5;179800;Campomaggiore;16.0778;40.5486;437;1;OD:179800;NA;17;NA
+6;179900;Albano di Lucania;16.0378;40.5894;794;1;OD:179900;NA;17;NA
+7;203900;Sinni SS106;16.6514;40.1678;10;1;OD:203900;NA;17;NA
+8;204000;Cavone SS106;16.7267;40.2983;14;1;OD:204000;NA;17;NA
+9;215900;Basento freatimetro;16.7789;40.3742;8;1;OD:215900;NA;17;NA
+11;230600;Bradano freatimetro;16.8181;40.425;9;1;OD:230600;NA;17;NA
+12;233200;Terra Montonata;16.7519;40.31;10;1;OD:233200;NA;17;NA
+13;240400;Basento SS 106;16.7806;40.3694;8;1;OD:240400;NA;17;NA
+15;240700;Grassano SP;16.275;40.6347;450;1;OD:240700;NA;17;NA
+17;275500;Episcopia-Pizzutello;16.1036;40.07;471;1;OD:275500;NA;17;NA
+18;275600;Castrocucco;15.7967;40.0011;163;1;OD:275600;NA;17;NA
+19;276500;Terranova di Pollino;16.2983;39.9839;1150;1;OD:276500;NA;17;NA
+20;276900;Tursi;16.4711;40.2517;257;1;OD:276900;NA;17;NA
+21;277300;Marsico Nuovo;15.725;40.405;666;1;OD:277300;NA;17;NA
+23;331200;Castelsaraceno;15.9861;40.1611;959;1;OD:331200;NA;17;NA
+25;332500;Roccanova;16.2067;40.2128;610;1;OD:332500;NA;17;NA
+26;387900;Potenza Q.A.;15.7969;40.6264;708;1;OD:387900;NA;17;NA
+29;418000;Oppido Lucano;15.9983;40.7639;580;1;OD:418000;NA;17;NA
+30;418100;Lavello;15.7914;41.0369;314;1;OD:418100;NA;17;NA
+31;418200;Venosa;15.8036;40.9597;406;1;OD:418200;NA;17;NA
+32;418300;Palazzo S.Gervasio;15.98;40.9339;422;1;OD:418300;NA;17;NA
+33;419700;Picerno;15.6369;40.6372;638;1;OD:419700;NA;17;NA
+34;419800;Balvano;15.5014;40.6494;477;1;OD:419800;NA;17;NA
+35;419900;Brienza;15.6411;40.4794;765;1;OD:419900;NA;17;NA
+36;420000;Tito;15.6569;40.5742;728;1;OD:420000;NA;17;NA
+38;481200;Montescaglioso;16.7014;40.5583;82;1;OD:481200;NA;17;NA
+39;54700;Tramutola;15.7867;40.2986;875;1;OD:54700;NA;17;NA
+40;54800;Stigliano;16.2236;40.3928;807;1;OD:54800;NA;17;NA
+41;54900;Noepoli;16.3306;40.0894;575;1;OD:54900;NA;17;NA
+42;55000;Matera;16.6017;40.6694;389;1;OD:55000;NA;17;NA
+43;55100;Lagonegro;15.7622;40.1344;879;1;OD:55100;NA;17;NA
+44;55200;Irsina;16.2461;40.7417;453;1;OD:55200;NA;17;NA
+48;83800;Potenza;15.8108;40.6328;669;1;OD:83800;NA;17;NA
+100;100;Accettura;16.1486295986;40.5006772266;799;0;OD:100;NA;17;NA
+101;101;Acerenza;15.9326469898;40.8006734953;833;0;OD:101;NA;17;NA
+102;102;Acquafredda;15.6668096649;40.0339926458;86;0;OD:102;NA;17;NA
+103;103;Agromonte_C._C.;16.0489373913;40.0673364119;500;0;OD:103;NA;17;NA
+104;104;Albano_di_Lucania;16.0358513363;40.5819656006;824;0;OD:104;NA;17;NA
+105;105;Aliano;16.2316980607;40.3006782273;497;0;OD:105;NA;17;NA
+106;106;Anzi;15.9160287691;40.5173368977;1066;0;OD:106;NA;17;NA
+107;107;Armento;16.0655547873;40.3006725172;640;0;OD:107;NA;17;NA
+108;108;Baraccone_C.C.;16.3313852006;40.3840161189;335;0;OD:108;NA;17;NA
+109;109;Basentello_C.C.;16.3147786413;40.7673526196;350;0;OD:109;NA;17;NA
+110;110;Basento_Freatimetro;16.7809974729;40.3686516743;10;0;OD:110;NA;17;NA
+111;111;Bella_S._Antonio_Casalini;15.6091527557;40.7399756097;744;0;OD:111;NA;17;NA
+112;112;Bernalda;16.6802875505;40.4173649903;127;0;OD:112;NA;17;NA
+113;113;Bradano_Freatimetro;16.8217376684;40.4228998378;16;0;OD:113;NA;17;NA
+114;114;C.le_Castrocucco;15.791169045;39.969893442;92;0;OD:114;NA;17;NA
+115;115;Calciano;16.1984741718;40.5840131859;450;0;OD:115;NA;17;NA
+116;116;Calvello;15.8495707085;40.4673345694;700;0;OD:116;NA;17;NA
+117;117;Calvera;16.1422550252;40.1498402558;605;0;OD:117;NA;17;NA
+118;118;Cancellara;15.9160314423;40.7340057189;620;0;OD:118;NA;17;NA
+119;119;Caprarico;16.3812264909;40.3006839613;160;0;OD:119;NA;17;NA
+120;120;Caprarizzo;16.3646204672;40.6840204577;420;0;OD:120;NA;17;NA
+121;121;Carbone;16.082166511;40.1340047612;685;0;OD:121;NA;17;NA
+122;122;Castelluccio_Inferiore;15.970752416;40.0062538635;490;0;OD:122;NA;17;NA
+123;123;Castelluccio_Superiore;15.9658655302;40.0173333505;700;0;OD:123;NA;17;NA
+124;124;Castelsaraceno;15.9824815219;40.1673353537;950;0;OD:124;NA;17;NA
+125;125;Castronuovo_S.Andrea;16.1837913079;40.1876198356;660;0;OD:125;NA;17;NA
+126;126;Cavone_a_Ponte_SS_106;16.7212662881;40.2956991438;17;0;OD:126;NA;17;NA
+127;127;Cersosimo;16.347993192;40.0506801656;563;0;OD:127;NA;17;NA
+128;128;Chiaromonte;16.1984659845;40.1173419033;794;0;OD:128;NA;17;NA
+129;129;Cogliandrino;15.9326381987;40.1006665617;700;0;OD:129;NA;17;NA
+130;130;Cognato;16.1320163054;40.5673440253;557;0;OD:130;NA;17;NA
+131;131;Colonna_C.C.;16.1154049126;40.7340117706;350;0;OD:131;NA;17;NA
+132;132;Corleto_Perticara;16.0323276153;40.3840056668;746;0;OD:132;NA;17;NA
+133;133;Craco;16.4310715375;40.384020093;391;0;OD:133;NA;17;NA
+134;134;Craco_Peschiera_Idrometro;16.5215140057;40.3609996686;6;0;OD:134;NA;17;NA
+135;135;Episcopia;16.0987800489;40.0673379983;520;0;OD:135;NA;17;NA
+136;136;Ferrandina;16.4518417679;40.4979110602;492;0;OD:136;NA;17;NA
+137;137;Foce_Sinni;16.641514138;40.1645829007;35;0;OD:137;NA;17;NA
+138;138;Francavilla_in_Sinni;16.1984654173;40.0840081974;421;0;OD:138;NA;17;NA
+139;139;Genzano_di_Lucania;16.0344202582;40.8530053431;591;0;OD:139;NA;17;NA
+140;140;Gorgoglione;16.1486282139;40.4173431235;800;0;OD:140;NA;17;NA
+141;141;Grancia;15.9326446586;40.6173383044;747;0;OD:141;NA;17;NA
+142;142;Grassano;16.2699718294;40.6323635167;577;0;OD:142;NA;17;NA
+143;143;Grottole;16.3812328283;40.6006868861;481;0;OD:143;NA;17;NA
+144;144;Grumento_Nova;15.8969195432;40.2909452333;585;0;OD:144;NA;17;NA
+145;145;Irsina;16.2355827272;40.7484605691;533;0;OD:145;NA;17;NA
+146;146;Isca_di_Tramutola;15.7997263908;40.3339987163;597;0;OD:146;NA;17;NA
+147;147;Lagonegro;15.7619997491;40.1341863273;666;0;OD:147;NA;17;NA
+148;148;Latronico;16.0157088827;40.084002207;884;0;OD:148;NA;17;NA
+149;149;Laurenzana;15.9758100073;40.4552513368;850;0;OD:149;NA;17;NA
+150;150;Lauria_Inferiore;15.8329519563;40.050663337;630;0;OD:150;NA;17;NA
+151;151;Malabocca_C.C.;16.4975273961;40.3173556597;175;0;OD:151;NA;17;NA
+152;152;Maratea;15.7166521825;39.9839932465;300;0;OD:152;NA;17;NA
+153;153;Marsico_Nuovo;15.7305235232;40.4238614952;850;0;OD:153;NA;17;NA
+154;154;Marsicovetere;15.8163410146;40.3673327736;1039;0;OD:154;NA;17;NA
+155;155;Matera;16.5954416605;40.6597138001;450;0;OD:155;NA;17;NA
+156;156;Metaponto;16.8132006622;40.3673712428;3;0;OD:156;NA;17;NA
+157;157;Mezzana_di_Lucania;16.1652352679;39.9673392612;918;0;OD:157;NA;17;NA
+158;158;Miglionico;16.4975331755;40.5673581226;466;0;OD:158;NA;17;NA
+159;159;Mileo;16.0323229256;40.0506690741;750;0;OD:159;NA;17;NA
+160;160;Missanello;16.1652405664;40.2840090316;566;0;OD:160;NA;17;NA
+161;161;Moliterno;15.8661827466;40.2339993734;879;0;OD:161;NA;17;NA
+162;162;Montalbano_Jonico;16.5639835872;40.2840248999;292;0;OD:162;NA;17;NA
+163;163;Monte_Serico;16.1486355404;40.8506807382;557;0;OD:163;NA;17;NA
+164;164;Montemurro;15.9824832418;40.300669927;710;0;OD:164;NA;17;NA
+165;165;Montepitecchio;16.1652514496;40.9173487304;450;0;OD:165;NA;17;NA
+166;166;Montescaglioso;16.6636772043;40.5673657536;364;0;OD:166;NA;17;NA
+167;167;Noepoli;16.3298788144;40.0896520552;676;0;OD:167;NA;17;NA
+168;168;Nova_Siri;16.5307518084;40.1506888404;300;0;OD:168;NA;17;NA
+169;169;Nova_Siri_Scalo;16.6304369854;40.1340265269;2;0;OD:169;NA;17;NA
+170;170;Oppido_Lucano;15.9991043104;40.7673418467;650;0;OD:170;NA;17;NA
+171;171;Palazzo_San_Gervasio;15.9824919721;40.9340096998;483;0;OD:171;NA;17;NA
+172;172;Pietragalla;15.8661886206;40.7506711655;839;0;OD:172;NA;17;NA
+173;173;Pignola;15.7712076581;40.5926116503;742;0;OD:173;NA;17;NA
+174;174;Pignola_di_Lucania;15.783114558;40.5840007949;924;0;OD:174;NA;17;NA
+175;175;Pisticci;16.734492897;40.2950459358;364;0;OD:175;NA;17;NA
+176;176;Pizzutello;16.102201969;40.0656875279;445;0;OD:176;NA;17;NA
+177;177;Policoro;16.6533702214;40.1578978962;31;0;OD:177;NA;17;NA
+178;178;Pomarico;16.5473751583;40.517359798;455;0;OD:178;NA;17;NA
+179;179;Ponte_Colonna;16.1580487555;40.738735538;215;0;OD:179;NA;17;NA
+180;180;Potenza;15.8021046436;40.6369822844;811;0;OD:180;NA;17;NA
+181;181;Potenza_Q.A.;15.8136122939;40.6361099574;659;0;OD:181;NA;17;NA
+182;182;Recoleta;16.6470542922;40.2506951312;83;0;OD:182;NA;17;NA
+183;183;Ripa_d_Api_Scalo;16.1154054903;40.7673454521;298;0;OD:183;NA;17;NA
+184;184;Rivello;15.7498814609;40.0839949713;450;0;OD:184;NA;17;NA
+185;185;Roccanova;16.1984676643;40.2173428179;654;0;OD:185;NA;17;NA
+186;186;Rotonda;16.0323214783;39.9506680072;630;0;OD:186;NA;17;NA
+187;187;Salandra;16.3147735342;40.5173500882;598;0;OD:187;NA;17;NA
+188;188;San_Basilio;16.6968989903;40.3173648791;67;0;OD:188;NA;17;NA
+189;189;San_Chirico_Raparo;16.0655530412;40.1840047179;750;0;OD:189;NA;17;NA
+190;190;San_Giorgio_Lucano;16.3812227681;40.1173488296;416;0;OD:190;NA;17;NA
+191;191;San_Giuliano;16.5310397674;40.6026377525;69;0;OD:191;NA;17;NA
+192;192;San_Giuliano_C.C.;16.5473772249;40.6006939681;90;0;OD:192;NA;17;NA
+193;193;San_Martino_d_Agri;16.048939812;40.2340046635;661;0;OD:193;NA;17;NA
+194;194;San_Mauro_Forte;16.2483157797;40.4840139215;565;0;OD:194;NA;17;NA
+195;195;San_Nicola_d__Avigliano;15.7997303975;40.7340026715;848;0;OD:195;NA;17;NA
+196;196;San_Salvatore;16.7965885223;40.4340376731;46;0;OD:196;NA;17;NA
+197;197;San_Severino_Lucano;16.1320073823;40.0173386406;884;0;OD:197;NA;17;NA
+198;198;Sant_Arcangelo;16.2649254194;40.2506788815;370;0;OD:198;NA;17;NA
+199;199;Scanzano;16.6968971702;40.2506975236;23;0;OD:199;NA;17;NA
+200;200;Sciffra;15.7446246904;40.5703885563;780;0;OD:200;NA;17;NA
+201;201;Sellata_C.C.;15.7831140351;40.5340002114;1200;0;OD:201;NA;17;NA
+202;202;Senise;16.2815381097;40.1506786087;330;0;OD:202;NA;17;NA
+203;203;Stigliano;16.2273575423;40.3975859707;908;0;OD:203;NA;17;NA
+204;204;Teana;16.1486234795;40.1340069241;800;0;OD:204;NA;17;NA
+205;205;Terra_Montonata;16.7528726406;40.304716496;11;0;OD:205;NA;17;NA
+206;206;Terranova_di_Pollino;16.3037065364;39.9804455322;930;0;OD:206;NA;17;NA
+207;207;Tolve;16.0289716683;40.6981327723;568;0;OD:207;NA;17;NA
+208;208;Torre_Accio;16.6484426712;40.4034744433;140;0;OD:208;NA;17;NA
+209;209;Tramutola;15.7739768238;40.3252638513;654;0;OD:209;NA;17;NA
+210;210;Trecchina;15.7831089649;40.0173284563;500;0;OD:210;NA;17;NA
+211;211;Tricarico;16.1486315605;40.6173450812;698;0;OD:211;NA;17;NA
+212;212;Tursi;16.4801779065;40.247202419;348;0;OD:212;NA;17;NA
+213;213;Vaglio_di_Lucania;15.9160305896;40.6673383418;933;0;OD:213;NA;17;NA
+214;214;Valsinni;16.4310668755;40.1673513371;250;0;OD:214;NA;17;NA
+215;215;Venusio_Scalo;16.5639946024;40.734029396;338;0;OD:215;NA;17;NA
+216;216;Vietri;15.5175103774;40.595006942;421;0;OD:216;NA;17;NA
+217;217;Viggianello;16.0821639726;39.9673364679;512;0;OD:217;NA;17;NA
+218;218;Viggiano;15.8827978295;40.3340008317;1023;0;OD:218;NA;17;NA
